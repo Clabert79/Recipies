@@ -1,5 +1,8 @@
 1) Antipasti
 2) Primi
+	pasta al pomodoro
+	pasta al pesto
+	pasta alla carbonara
 3) Secondi
 4) Dolci
 5) Frutta
