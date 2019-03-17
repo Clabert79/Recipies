@@ -1,6 +1,7 @@
 1) Antipasti
 	insalata russa
 	acciughe
+        olive ascolane
 2) Primi
 	pasta al pomodoro
 	pasta al pesto
